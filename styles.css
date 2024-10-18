@@ -7,7 +7,7 @@
 body {
     font-family: cursive;
     color: #195362;
-    background-color: #f4f4f4;
+    background-color: #3c90d0;
 }
 
 nav {
@@ -63,18 +63,17 @@ nav {
     transform: scaleX(1);
 }
 
-.brand {
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
-}
+.brand img{
+    width: 50PX;
+    height: 50px;
+  }
 
 
 
 
 /* Hero section*/
 .hero {
-    background-image: url('images/landing1.jpg');
+    background-image: url('images/imge-8\ \(2\).png');
     background-size: cover;
     background-position: center;
     height: 80vh;
